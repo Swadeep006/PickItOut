@@ -1,0 +1,18 @@
+# Streamlit for UI
+streamlit>=1.35.0
+
+# For deep learning and model inference
+torch>=2.2.0
+transformers>=4.41.0
+
+# Image handling
+Pillow>=10.2.0
+
+# Optional OCR
+pytesseract>=0.3.10
+
+pdf2image>=1.16.3
+
+pymupdf>=1.23.7
+
+docx2txt>=0.8
